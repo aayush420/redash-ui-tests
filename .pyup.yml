@@ -8,3 +8,4 @@ requirements:
 label_prs: update
 assignees:
  - jrbenny35
+schedule: "every week"
