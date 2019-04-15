@@ -109,11 +109,10 @@
         },
         "pytest-selenium": {
             "hashes": [
-                "sha256:050a357a8bc9d38241052a277a5da3d67ff4801a807e8918113a88defee11c97",
-                "sha256:b3c36a212d0b5a3ba61fccbf9f754aa2286840dc2ae910a04b67c72685a1bca7"
+                "sha256:18c5db66512efcf6db9e32cfe8dcd0b69ef11ac1e8b9a4ce8a1b4813e6c73c9a",
+                "sha256:c4d5a73d501f9fb3afb70e781f6fc2106a7b5f64387ed449b15eb1df61fa7915"
             ],
-            "index": "pypi",
-            "version": "==1.12.0"
+            "version": "==1.16.0"
         },
         "pytest-variables": {
             "hashes": [
